@@ -41,7 +41,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 296, 0, 29)
 TextLabel.Font = Enum.Font.FredokaOne
-TextLabel.Text = "FORCE TRADE JANUARY UPDT- INFINITY HUB"
+TextLabel.Text = "TRADESCAM JAN UPDT- INF HUB"
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
@@ -96,7 +96,7 @@ tradescam.BackgroundColor3 = Color3.fromRGB(16, 126, 18)
 tradescam.Position = UDim2.new(0.0337837823, 0, 0.45799458, 0)
 tradescam.Size = UDim2.new(0, 278, 0, 29)
 tradescam.Font = Enum.Font.GothamBold
-tradescam.Text = "TRADE SCAM (INSTANT REMOVE PETS)"
+tradescam.Text = "TRADE SCAM" (INSTANT REMOVE PETS)"
 tradescam.TextColor3 = Color3.fromRGB(0, 0, 0)
 tradescam.TextScaled = true
 tradescam.TextSize = 14.000
@@ -143,7 +143,7 @@ newdupe.Position = UDim2.new(0.030405404, 0, 0.216802165, 0)
 newdupe.Size = UDim2.new(0, 278, 0, 25)
 newdupe.Visible = false
 newdupe.Font = Enum.Font.GothamBold
-newdupe.Text = "Force Trade (v3.1)"
+newdupe.Text = "ForceTrade (v3.1)"
 newdupe.TextColor3 = Color3.fromRGB(0, 0, 0)
 newdupe.TextScaled = true
 newdupe.TextSize = 14.000
@@ -216,3 +216,9 @@ wait(30)
 timer.Visible = true
 newdupe.Visible = true
 olddupe.Visible = true
+
+
+
+
+
+
